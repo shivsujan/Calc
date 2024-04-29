@@ -8,7 +8,7 @@
 .calculator {
     text-align: center;
     border: none;
-    background-color: #f10d05;
+    background-color: #f105b6;
     padding: 100px;
     border-radius: 80px;
     display: inline-block;
@@ -50,7 +50,7 @@ button {
     outline: 0px;
     box-shadow: -8px -8px 15px rgba(180, 180, 180, 0.1),  5px 5px 15px rgba(0, 0, 0, 0.2);
     font-size: 35px;
-    background: rgb(21, 228, 69);
+    background: rgb(231, 247, 2);
     color: rgb(62, 60, 60);
     width: 80px;
     height: 80px;
