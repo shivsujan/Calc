@@ -31,7 +31,7 @@ h2 {
 input {
 
     border-radius: 25px;
-    border: 8px solid rgb(253, 240, 240);
+    border: 8px solid rgb(243, 5, 5);
     padding: 25px;
     background: rgb(14, 238, 193);
     font-size: 50px;
@@ -59,6 +59,6 @@ button {
 }
 
 .color {
-    color: rgb(231, 242, 243);
+    color: rgb(255, 9, 9);
     
 }
